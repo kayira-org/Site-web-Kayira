@@ -1,0 +1,159 @@
+/*INDEX.PHP*/
+.form-group label {
+    font-weight: bold;
+}
+.form-control {
+    height: auto;
+}
+.form-group span {
+    color: red;
+}
+.dropdown-menu {
+    max-width: 200px;
+}
+
+
+/*PROPOS.PHP*/
+.dropdown-menu {
+    max-width: 200px; 
+}
+.social-icon-item {
+    margin-right: 10px;
+}
+.about-section {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+}
+.about-heading {
+    font-size: 36px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 40px;
+}
+.about-content {
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+.values-section {
+    background-color: #ffffff;
+    padding: 60px 0; 
+}
+.values-heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 30px;
+}
+.values-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+.values-list li {
+    margin-bottom: 10px;
+}
+.activities-section {
+    padding: 60px 0; 
+    background-color: #f8f9fa; 
+}
+.activities-heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 30px;
+}
+.activities-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+.activities-list li {
+    margin-bottom: 10px;
+}
+.members-section {
+    padding: 60px 0; 
+    background-color: #ffffff;
+}
+.members-heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 30px;
+}
+.members-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+.members-list li {
+    margin-bottom: 10px;
+}
+.partners-section {
+    padding: 60px 0; 
+    background-color: #f8f9fa; 
+}
+.partners-heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 30px;
+}
+.action-section {
+    padding: 60px 0; 
+    background-color: #ffffff; 
+}
+.action-heading {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 30px;
+}
+.contact-info {
+    margin-top: 20px;
+}
+
+/*EVENEMENT.PHP*/
+.dropdown-menu {
+    max-width: 200px; 
+}
+
+/*EVENEMENT_PASSE.PHP*/
+.dropdown-menu {
+    max-width: 200px; 
+}
+
+
+/*DONS.PHP*/
+.dropdown-menu {
+    max-width: 200px; 
+}
+.event-description {
+    margin-top: 40px; 
+    margin-bottom: 40px; 
+    padding: 20px;
+    background-color: #f8f9fa; 
+    border-radius: 10px;
+}
+
+.event-description img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*CONTACT.PHP*/
+.dropdown-menu {
+    max-width: 200px;
+}
+.form-group label {
+    font-weight: bold;
+}
+.form-control {
+    height: auto;
+}
+.form-group span {
+    color: red;
+}
+.contact-form {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
